@@ -1,3 +1,5 @@
+<img width="1862" height="1041" alt="image" src="https://github.com/user-attachments/assets/b1fe7d54-98cf-46ee-9804-638a4518a3b4" />
+
 # JASS GURBANI STUDIO
 
 A simple, beautiful PySide6 desktop application for creating Gurbani quote artwork and exporting it as PNG images.
